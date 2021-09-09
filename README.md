@@ -2,11 +2,11 @@
 
 ![Banner](FSS_Banner.jpg)
 
-## Hi there 👋
+## Hello there 👋
 
-I'm Andy Youens who has worked for FormaServe Systems Ltd in the UK for over 30 years.  With over 40 IBM midrange experience.
+I'm Andy Youens, who has worked for [FormaServe Systems Ltd](https://www/formaserve.co.uk) in the UK for over 30 years.  With over 40 IBM midrange experience.
 
-A lover of Open-source on the IBM i.
+A lover of everything IBM i, especially Open-source on the IBM i.
 
 I've produced many videos on the IBM i, check them out [here.](https://learning.formaserve.co.uk)
 
