@@ -1,6 +1,6 @@
 # Andy Youens
 
-![Banner](https://github.com/AndyYouens/AndyYouens/FSS YouTube Banner.jpg)
+![Banner](https://github.com/AndyYouens/AndyYouens/FSS_Banner.jpg)
  <!-- retro visitor counter
  <p align="center">
   <img src="https://profile-counter.glitch.me/AndyYouens/count.svg" />
