@@ -8,17 +8,18 @@ I'm Andy Youens who has worked for FormaServe Systems Ltd in the UK for over 30 
 
 A lover of Open-source on the IBM i.
 
-I've produced many videos on the IBM i, check them out at https://learning.formaserve.co.uk
+I've produced many videos on the IBM i, check them out [here.](https://learning.formaserve.co.uk)
 
 I'm an IBM Champion & also a member of IBMs ISV Advisory Council.
 
 I talk at IBM i user groups around the world & write for the PowerWire publication.
-Check out my articles ![here](https://powerwire.eu/author/andy-youens)
+Check out my articles [here.](https://powerwire.eu/author/andy-youens)
 
 Proud to have served in the Royal Navy for 10 years, the Senior Service!
-Born in London, made in the Royal Navy!
 
 ![Royal Navy](RoyalNavy.jpg)
+
+Born in London, made in the Royal Navy!
 
 ## Location & Contact
 I'm located in London England.
@@ -27,8 +28,7 @@ Get in contact with me:
 <br>
 <br>
 <a href="https://twitter.com/andyyouens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andyyouens" height="30" width="40" /></a>
-<br>
-<br>
+
 <a href="https://linkedin.com/in/andyyouens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andyyouens" height="30" width="40" /></a>
 
 <br>
