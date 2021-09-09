@@ -1,10 +1,10 @@
 # Andy Youens
 
-![Banner](https://github.com/AndyYouens/AndyYouens/blob/master/GitHub-Profile-Cover.jpg)
- <!-- retro visitor counter -->
- <p align="center"> 
+![Banner](https://github.com/AndyYouens/AndyYouens/FSS YouTube Banner.jpg)
+ <!-- retro visitor counter
+ <p align="center">
   <img src="https://profile-counter.glitch.me/AndyYouens/count.svg" />
- </p>
+ </p>-->
 
 ### Hi there 👋
 
@@ -12,7 +12,7 @@ I'm Andy Youens who has worked for FormaServe Systems Ltd in the UK for over 30 
 
 A lover of Open-source on the IBM i.
 
-I've produced many videos on the IBM i, check them out at https://learning.formaserve.co.uk 
+I've produced many videos on the IBM i, check them out at https://learning.formaserve.co.uk
 
 I'm an IBM Champion & also a member of IBMs ISV Advisory Council.
 
@@ -23,7 +23,7 @@ Proud to have served in the Royal Navy for 10 years, the Senior Service!
 ### Location & Contact
 I'm located in London England.
 
-Get in contact with me at 
+Get in contact with me at
 
 ### Github stuff
 
