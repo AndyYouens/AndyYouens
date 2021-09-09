@@ -1,12 +1,8 @@
 # Andy Youens
 
-![Banner](https://github.com/AndyYouens/AndyYouens/FSS_Banner.jpg)
- <!-- retro visitor counter
- <p align="center">
-  <img src="https://profile-counter.glitch.me/AndyYouens/count.svg" />
- </p>-->
+![Banner](FSS_Banner.jpg)
 
-### Hi there 👋
+## Hi there 👋
 
 I'm Andy Youens who has worked for FormaServe Systems Ltd in the UK for over 30 years.  With over 40 IBM midrange experience.
 
@@ -16,16 +12,29 @@ I've produced many videos on the IBM i, check them out at https://learning.forma
 
 I'm an IBM Champion & also a member of IBMs ISV Advisory Council.
 
-I talk at IBM i user groups around the world.
+I talk at IBM i user groups around the world & write for the PowerWire publication.
+Check out my articles ![here](https://powerwire.eu/author/andy-youens)
 
 Proud to have served in the Royal Navy for 10 years, the Senior Service!
+Born in London, made in the Royal Navy!
 
-### Location & Contact
+![Royal Navy](RoyalNavy.jpg)
+
+## Location & Contact
 I'm located in London England.
 
-Get in contact with me at
+Get in contact with me:
+<br>
+<br>
+<a href="https://twitter.com/andyyouens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andyyouens" height="30" width="40" /></a>
+<br>
+<br>
+<a href="https://linkedin.com/in/andyyouens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andyyouens" height="30" width="40" /></a>
 
-### Github stuff
+<br>
+<br>
+
+## Github Stuff
 
 [![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyYouens&count_private=true
 )](https://github.com/AndyYouens/github-readme-stats)
