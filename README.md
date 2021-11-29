@@ -56,8 +56,14 @@ Ask me about anything IBM i or Open Source on IBM i
 <hr>
 
 ## 🏠 Location
-I'm located in London England. :gb:
+I'm located in London England.
 
+<p>&nbsp;</p>
+<hr>
+
+## Open Source on IBM i - Oh Yea!
+
+👍👍
 <p>&nbsp;</p>
 <hr>
 
@@ -68,9 +74,3 @@ I'm located in London England. :gb:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyYouens&langs_count=8)](https://github.com/AndyYouens/github-readme-stats)
 
-<p>&nbsp;</p>
-<hr>
-
-## Open Source on IBM i - Oh Yea!
-
-👍👍
