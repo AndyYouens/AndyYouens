@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - galatea",
+			"uri": "ssh://galatea/"
+		}
+	],
+	"settings": {}
+}
