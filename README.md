@@ -5,7 +5,7 @@
 <h2>Hello there, I'm Andy Youens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h2>
 <p>&nbsp;</p>
 
-I've worked for [FormaServe Systems Ltd](https://www/formaserve.co.uk) in the UK for over 30 years.  With over 40 IBM midrange experience.
+I've worked for [FormaServe Systems Ltd](https://www/formaserve.co.uk) in the UK for over 30 years.  With over 40 years IBM midrange experience.
 
 A lover of everything IBM i, especially Open-source on the IBM i.
 
@@ -14,7 +14,7 @@ I've produced many videos on the IBM i, check them out [here.](https://learning.
 I'm an IBM Champion & also a member of IBMs ISV Advisory Council.
 
 I talk at IBM i user groups around the world & write for the PowerWire publication.
-Check out my [articles here.](https://powerwire.eu/author/andy-youens)
+Check out my [PowerWire articles here.](https://powerwire.eu/author/andy-youens)
 
 I'm proud to have served in Her Majesty's Royal Navy for 10 years, the Senior Service!
 
