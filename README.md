@@ -16,7 +16,7 @@ I'm an IBM Champion & also a member of IBMs ISV Advisory Council.
 I talk at IBM i user groups around the world & write for the PowerWire publication.
 Check out my [PowerWire articles here.](https://powerwire.eu/author/andy-youens)
 
-I'm proud to have served in Her Majesty's Royal Navy for 10 years, the Senior Service!
+I'm proud to have served in His Majesty's Royal Navy for 10 years, the Senior Service!
 
 ![Royal Navy](RoyalNavy.jpg)
 
