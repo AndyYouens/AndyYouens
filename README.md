@@ -14,7 +14,7 @@ I've produced many videos on the IBM i, check them out [here.](https://learning.
 I'm an IBM Champion & also a member of IBMs ISV Advisory Council.
 
 I talk at IBM i user groups around the world & I am the editor of the PowerWire publication.
-Check it out [PowerWire Free monthly newsletters & articles here.](https://powerwire.uk)
+Check out [PowerWire Free monthly newsletters & articles.](https://powerwire.uk)
 
 I'm proud to have served in His Majesty's Royal Navy for 10 years, the Senior Service!
 
