@@ -5,13 +5,13 @@
 <h2>Hello there, I'm Andy Youens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h2>
 <p>&nbsp;</p>
 
-I've worked for [FormaServe Systems Ltd](https://www/formaserve.co.uk) in the UK for over 30 years.  With over 40 years IBM midrange experience.
+I've worked for [FormaServe Systems Ltd](https://www/formaserve.co.uk) in the UK for over 35 years.  With over 40 years IBM midrange experience.
 
 A lover of everything IBM i, especially Open-source on the IBM i.
 
 I've produced many videos on the IBM i, check them out [here.](https://learning.formaserve.co.uk)
 
-I'm an IBM Champion & also a member of IBMs ISV Advisory Council.
+I'm an IBM Champion & also a member of IBMs ISV Advisory Council and IBM Redbook author.
 
 I talk at IBM i user groups around the world & I am the editor of the PowerWire publication.
 Check out [PowerWire Free monthly newsletters & articles.](https://powerwire.uk)
