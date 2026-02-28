@@ -5,22 +5,19 @@
 <h2>Hello there, I'm Andy Youens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h2>
 <p>&nbsp;</p>
 
-I've worked for [FormaServe Systems Ltd](https://www/formaserve.co.uk) in the UK for over 35 years.  With over 40 years IBM midrange experience.
+I am the Managing Director of UK based [FormaServe Systems Ltd](https://www.formaserve.co.uk), an IBM ISV since 1990. A seasoned IBM i professional with over 45 years of experience in the field. 
 
-A lover of everything IBM i, especially Open-source on the IBM i.
+I have a deep expertise in IBM i servers, including system administration, application development and modernisation. 
 
-I've produced many videos on the IBM i, check them out [here.](https://learning.formaserve.co.uk)
+As an active contributor to the IBM i community, I frequently share my insights and expertise through speaking engagements, webinars and technical articles. 
 
-I'm an IBM Champion & also a member of IBMs ISV Advisory Council and IBM Redbook author.
+An IBM champion, who co-wrote the IBM i developer certification and IBM Redbook co-author.
 
-I talk at IBM i user groups around the world & I am the editor of the PowerWire publication.
-Check out [PowerWire Free monthly newsletters & articles.](https://powerwire.uk)
+I am the owner of PowerWire, the monthly newsletter and articles on IBM Power. Check out [PowerWire Free monthly newsletters & articles.](https://powerwire.uk)
 
-I'm proud to have served in His Majesty's Royal Navy for 10 years, the Senior Service!
+I've produced many videos on the IBM i, check them out [here on youtube.](https://youtube.com/@formaserve)
 
-![Royal Navy](RoyalNavy.jpg)
-
-Born in London, made in the Royal Navy!
+Prior to IT, I'm proud to have served in the UK's armed forces, the Royal Navy.<img width="2140" height="645" alt="image" src="https://github.com/user-attachments/assets/e71a0110-2659-4d15-9220-2dde9072987c" />
 
 Don't forget to leave a ⭐ if you find my repo's useful.
 
@@ -33,9 +30,9 @@ Thank-you!🎆
 Ask me about anything IBM i or Open Source on IBM i
 
 - LinkedIn: https://linkedin.com/in/andyyouens
-- Twitter: https://twitter.com/AndyYouens
-- Twitter: https://twitter.com/FormaServe
-- Website: https://learning.formaserve.co.uk
+- X: https://twitter.com/AndyYouens
+- X: https://twitter.com/FormaServe
+- Website: https://powerwire.uk
 - Website: https://www.formaserve.co.uk
 
 <p>&nbsp;</p>
@@ -58,12 +55,6 @@ Ask me about anything IBM i or Open Source on IBM i
 ## 🏠 Location
 I'm located in London England.
 
-<p>&nbsp;</p>
-<hr>
-
-## Open Source on IBM i - Oh Yea!
-
-👍👍
 <p>&nbsp;</p>
 <hr>
 
