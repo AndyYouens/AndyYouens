@@ -58,13 +58,3 @@ Ask me about anything IBM i or Open Source on IBM i
 
 ## 🏠 Location
 I'm located in London England.
-
-<p>&nbsp;</p>
-<hr>
-
-## ✔️ Github Stuff
-
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyYouens&count_private=true
-)](https://github.com/AndyYouens/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyYouens&langs_count=8)](https://github.com/AndyYouens/github-readme-stats)
