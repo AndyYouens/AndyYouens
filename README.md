@@ -17,7 +17,11 @@ I am the owner of PowerWire, the monthly newsletter and articles on IBM Power. C
 
 I've produced many videos on the IBM i, check them out [here on youtube.](https://youtube.com/@formaserve)
 
-Prior to IT, I'm proud to have served in the UK's armed forces, the Royal Navy.<img width="2140" height="645" alt="image" src="https://github.com/user-attachments/assets/e71a0110-2659-4d15-9220-2dde9072987c" />
+I'm proud to have served in His Majesty's Royal Navy for 10 years, the Senior Service!
+
+![Royal Navy](RoyalNavy.jpg)
+
+Born in London, made in the Royal Navy!
 
 Don't forget to leave a ⭐ if you find my repo's useful.
 
@@ -64,4 +68,3 @@ I'm located in London England.
 )](https://github.com/AndyYouens/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyYouens&langs_count=8)](https://github.com/AndyYouens/github-readme-stats)
-
