@@ -1,11 +1,11 @@
 # Andy Youens
 
-![Banner](FSS_Banner.jpg)
+![Banner](Training Banner5.png)
 <p>&nbsp;</p>
 <h2>Hello there, I'm Andy Youens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h2>
 <p>&nbsp;</p>
 
-I am the Managing Director of UK based [FormaServe Systems Ltd](https://www.formaserve.co.uk), an IBM ISV since 1990. A seasoned IBM i professional with over 45 years of experience in the field. 
+I am the Managing Director of UK based [FormaServe Systems Ltd](https://www.formaserve.co.uk), an IBM Power ISV since 1990. A seasoned IBM i professional with over 45 years of experience in the field. 
 
 I have a deep expertise in IBM i servers, including system administration, application development and modernisation. 
 
